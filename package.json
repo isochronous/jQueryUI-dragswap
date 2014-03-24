@@ -1,0 +1,12 @@
+{
+    "name":    "jQueryUI-dragswap",
+    "version": "0.3.0",
+    "description": "A widget for drag-and-drop situations where there are n draggables and n droppables, and only 1 draggable is allowed per droppable.",
+    "author": "Jeremy McLeod",
+    "private": false,
+    "dependencies": {
+        "requirejs": ">=2.1.5",
+        "jquery": ">=1.9.1",
+        "jqueryui"
+    }
+}
